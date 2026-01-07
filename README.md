@@ -1,2 +1,1 @@
-# slot-demo
-Demo slot visual (no gambling)
+index.html
